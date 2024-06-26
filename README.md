@@ -22,6 +22,10 @@ git clone <url>
 ```
 git add .
 ```
+**Vemos el estado del de los archivos para el commit**
+```
+git status
+```
 **Hacemos el primer commit**
 ```
 git commit -m "Texto que identifique por que se hizo el commit"
